@@ -1,66 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
-    <url>
-     <loc>/</loc>
-     <lastmod>2018-02-19</lastmod>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>None</loc>
+     <lastmod>2021-05-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
-    <url>
-     <loc>/specification/1.0/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/hooks/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hooks/patient-view/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hooks/medication-prescribe/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/hooks/order-review/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-    <url>
-     <loc>/examples/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/community/</loc>
-     <lastmod>2018-02-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
 </urlset>
